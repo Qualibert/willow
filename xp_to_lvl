@@ -1,4 +1,4 @@
-let a = (tempVars("xp_num"));
+let a = (tempVars("xp_num")); //total of xp
  
 if (a < 1000) {var resp = 1}
 else if (a < 3000) {var resp = 2}
@@ -40,3 +40,5 @@ else if (a < 12000000) {var resp = 37}
 else if (a < 15000000) {var resp = 38}
 else if (a < 20000000) {var resp = 39}
 else {var resp = 40}
+
+//resp will be the output level
