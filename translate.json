@@ -1,0 +1,3250 @@
+[
+ {
+   "English": "Bulbasaur",
+   "French": "Bulbizarre"
+ },
+ {
+   "English": "Ivysaur",
+   "French": "Herbizarre"
+ },
+ {
+   "English": "Venusaur",
+   "French": "Florizarre"
+ },
+ {
+   "English": "Charmander",
+   "French": "Salameche"
+ },
+ {
+   "English": "Charmeleon",
+   "French": "Reptincel"
+ },
+ {
+   "English": "Charizard",
+   "French": "Dracaufeu"
+ },
+ {
+   "English": "Squirtle",
+   "French": "Carapuce"
+ },
+ {
+   "English": "Wartortle",
+   "French": "Carabaffe"
+ },
+ {
+   "English": "Blastoise",
+   "French": "Tortank"
+ },
+ {
+   "English": "Caterpie",
+   "French": "Chenipan"
+ },
+ {
+   "English": "Metapod",
+   "French": "Chrysacier"
+ },
+ {
+   "English": "Butterfree",
+   "French": "Papilusion"
+ },
+ {
+   "English": "Weedle",
+   "French": "Aspicot"
+ },
+ {
+   "English": "Kakuna",
+   "French": "Coconfort"
+ },
+ {
+   "English": "Beedrill",
+   "French": "Dardargnan"
+ },
+ {
+   "English": "Pidgey",
+   "French": "Roucool"
+ },
+ {
+   "English": "Pidgeotto",
+   "French": "Roucoups"
+ },
+ {
+   "English": "Pidgeot",
+   "French": "Roucarnage"
+ },
+ {
+   "English": "Rattata",
+   "French": "Rattata"
+ },
+ {
+   "English": "Raticate",
+   "French": "Rattatac"
+ },
+ {
+   "English": "Spearow",
+   "French": "Piafabec"
+ },
+ {
+   "English": "Fearow",
+   "French": "Rapasdepic"
+ },
+ {
+   "English": "Ekans",
+   "French": "Abo"
+ },
+ {
+   "English": "Arbok",
+   "French": "Arbok"
+ },
+ {
+   "English": "Pikachu",
+   "French": "Pikachu"
+ },
+ {
+   "English": "Raichu",
+   "French": "Raichu"
+ },
+ {
+   "English": "Sandshrew",
+   "French": "Sabelette"
+ },
+ {
+   "English": "Sandslash",
+   "French": "Sablaireau"
+ },
+ {
+   "English": "Nidoran?",
+   "French": "Nidoran?"
+ },
+ {
+   "English": "Nidorina",
+   "French": "Nidorina"
+ },
+ {
+   "English": "Nidoqueen",
+   "French": "Nidoqueen"
+ },
+ {
+   "English": "Nidoran?",
+   "French": "Nidoran?"
+ },
+ {
+   "English": "Nidorino",
+   "French": "Nidorino"
+ },
+ {
+   "English": "Nidoking",
+   "French": "Nidoking"
+ },
+ {
+   "English": "Clefairy",
+   "French": "Melofee"
+ },
+ {
+   "English": "Clefable",
+   "French": "Melodelfe"
+ },
+ {
+   "English": "Vulpix",
+   "French": "Goupix"
+ },
+ {
+   "English": "Ninetales",
+   "French": "Feunard"
+ },
+ {
+   "English": "Jigglypuff",
+   "French": "Rondoudou"
+ },
+ {
+   "English": "Wigglytuff",
+   "French": "Grodoudou"
+ },
+ {
+   "English": "Zubat",
+   "French": "Nosferapti"
+ },
+ {
+   "English": "Golbat",
+   "French": "Nosferalto"
+ },
+ {
+   "English": "Oddish",
+   "French": "Mystherbe"
+ },
+ {
+   "English": "Gloom",
+   "French": "Ortide"
+ },
+ {
+   "English": "Vileplume",
+   "French": "Rafflesia"
+ },
+ {
+   "English": "Paras",
+   "French": "Paras"
+ },
+ {
+   "English": "Parasect",
+   "French": "Parasect"
+ },
+ {
+   "English": "Venonat",
+   "French": "Mimitoss"
+ },
+ {
+   "English": "Venomoth",
+   "French": "Aeromite"
+ },
+ {
+   "English": "Diglett",
+   "French": "Taupiqueur"
+ },
+ {
+   "English": "Dugtrio",
+   "French": "Triopikeur"
+ },
+ {
+   "English": "Meowth",
+   "French": "Miaouss"
+ },
+ {
+   "English": "Persian",
+   "French": "Persian"
+ },
+ {
+   "English": "Psyduck",
+   "French": "Psykokwak"
+ },
+ {
+   "English": "Golduck",
+   "French": "Akwakwak"
+ },
+ {
+   "English": "Mankey",
+   "French": "Ferosinge"
+ },
+ {
+   "English": "Primeape",
+   "French": "Colossinge"
+ },
+ {
+   "English": "Growlithe",
+   "French": "Caninos"
+ },
+ {
+   "English": "Arcanine",
+   "French": "Arcanin"
+ },
+ {
+   "English": "Poliwag",
+   "French": "Ptitard"
+ },
+ {
+   "English": "Poliwhirl",
+   "French": "Tetarte"
+ },
+ {
+   "English": "Poliwrath",
+   "French": "Tartard"
+ },
+ {
+   "English": "Abra",
+   "French": "Abra"
+ },
+ {
+   "English": "Kadabra",
+   "French": "Kadabra"
+ },
+ {
+   "English": "Alakazam",
+   "French": "Alakazam"
+ },
+ {
+   "English": "Machop",
+   "French": "Machoc"
+ },
+ {
+   "English": "Machoke",
+   "French": "Machopeur"
+ },
+ {
+   "English": "Machamp",
+   "French": "Mackogneur"
+ },
+ {
+   "English": "Bellsprout",
+   "French": "Chetiflor"
+ },
+ {
+   "English": "Weepinbell",
+   "French": "Boustiflor"
+ },
+ {
+   "English": "Victreebel",
+   "French": "Empiflor"
+ },
+ {
+   "English": "Tentacool",
+   "French": "Tentacool"
+ },
+ {
+   "English": "Tentacruel",
+   "French": "Tentacruel"
+ },
+ {
+   "English": "Geodude",
+   "French": "Racaillou"
+ },
+ {
+   "English": "Graveler",
+   "French": "Gravalanch"
+ },
+ {
+   "English": "Golem",
+   "French": "Grolem"
+ },
+ {
+   "English": "Ponyta",
+   "French": "Ponyta"
+ },
+ {
+   "English": "Rapidash",
+   "French": "Galopa"
+ },
+ {
+   "English": "Slowpoke",
+   "French": "Ramoloss"
+ },
+ {
+   "English": "Slowbro",
+   "French": "Flagadoss"
+ },
+ {
+   "English": "Magnemite",
+   "French": "Magneti"
+ },
+ {
+   "English": "Magneton",
+   "French": "Magneton"
+ },
+ {
+   "English": "Farfetch'd",
+   "French": "Canarticho"
+ },
+ {
+   "English": "Doduo",
+   "French": "Doduo"
+ },
+ {
+   "English": "Dodrio",
+   "French": "Dodrio"
+ },
+ {
+   "English": "Seel",
+   "French": "Otaria"
+ },
+ {
+   "English": "Dewgong",
+   "French": "Lamantine"
+ },
+ {
+   "English": "Grimer",
+   "French": "Tadmorv"
+ },
+ {
+   "English": "Muk",
+   "French": "Grotadmorv"
+ },
+ {
+   "English": "Shellder",
+   "French": "Kokiyas"
+ },
+ {
+   "English": "Cloyster",
+   "French": "Crustabri"
+ },
+ {
+   "English": "Gastly",
+   "French": "Fantominus"
+ },
+ {
+   "English": "Haunter",
+   "French": "Spectrum"
+ },
+ {
+   "English": "Gengar",
+   "French": "Ectoplasma"
+ },
+ {
+   "English": "Onix",
+   "French": "Onix"
+ },
+ {
+   "English": "Drowzee",
+   "French": "Soporifik"
+ },
+ {
+   "English": "Hypno",
+   "French": "Hypnomade"
+ },
+ {
+   "English": "Krabby",
+   "French": "Krabby"
+ },
+ {
+   "English": "Kingler",
+   "French": "Krabboss"
+ },
+ {
+   "English": "Voltorb",
+   "French": "Voltorbe"
+ },
+ {
+   "English": "Electrode",
+   "French": "Electrode"
+ },
+ {
+   "English": "Exeggcute",
+   "French": "Noeunoeuf"
+ },
+ {
+   "English": "Exeggutor",
+   "French": "Noadkoko"
+ },
+ {
+   "English": "Cubone",
+   "French": "Osselait"
+ },
+ {
+   "English": "Hitmonlee",
+   "French": "Kicklee"
+ },
+ {
+   "English": "Hitmonchan",
+   "French": "Tygnon"
+ },
+ {
+   "English": "Lickitung",
+   "French": "Excelangue"
+ },
+ {
+   "English": "Koffing",
+   "French": "Smogo"
+ },
+ {
+   "English": "Weezing",
+   "French": "Smogogo"
+ },
+ {
+   "English": "Rhyhorn",
+   "French": "Rhinocorne"
+ },
+ {
+   "English": "Rhydon",
+   "French": "Rhinoferos"
+ },
+ {
+   "English": "Chansey",
+   "French": "Leveinard"
+ },
+ {
+   "English": "Tangela",
+   "French": "Saquedeneu"
+ },
+ {
+   "English": "Kangaskhan",
+   "French": "Kangourex"
+ },
+ {
+   "English": "Horsea",
+   "French": "Hypotrempe"
+ },
+ {
+   "English": "Seadra",
+   "French": "Hypocean"
+ },
+ {
+   "English": "Goldeen",
+   "French": "Poissirene"
+ },
+ {
+   "English": "Seaking",
+   "French": "Poissoroy"
+ },
+ {
+   "English": "Staryu",
+   "French": "Stari"
+ },
+ {
+   "English": "Starmie",
+   "French": "Staross"
+ },
+ {
+   "English": "Mr. Mime",
+   "French": "M. Mime"
+ },
+ {
+   "English": "Scyther",
+   "French": "Insecateur"
+ },
+ {
+   "English": "Jynx",
+   "French": "Lippoutou"
+ },
+ {
+   "English": "Electabuzz",
+   "French": "Elektek"
+ },
+ {
+   "English": "Magmar",
+   "French": "Magmar"
+ },
+ {
+   "English": "Pinsir",
+   "French": "Scarabrute"
+ },
+ {
+   "English": "Tauros",
+   "French": "Tauros"
+ },
+ {
+   "English": "Magikarp",
+   "French": "Magicarpe"
+ },
+ {
+   "English": "Gyarados",
+   "French": "Leviator"
+ },
+ {
+   "English": "Lapras",
+   "French": "Lokhlass"
+ },
+ {
+   "English": "Ditto",
+   "French": "Metamorph"
+ },
+ {
+   "English": "Eevee",
+   "French": "Evoli"
+ },
+ {
+   "English": "Vaporeon",
+   "French": "Aquali"
+ },
+ {
+   "English": "Jolteon",
+   "French": "Voltali"
+ },
+ {
+   "English": "Flareon",
+   "French": "Pyroli"
+ },
+ {
+   "English": "Porygon",
+   "French": "Porygon"
+ },
+ {
+   "English": "Omanyte",
+   "French": "Amonita"
+ },
+ {
+   "English": "Omastar",
+   "French": "Amonistar"
+ },
+ {
+   "English": "Kabuto",
+   "French": "Kabuto"
+ },
+ {
+   "English": "Kabutops",
+   "French": "Kabutops"
+ },
+ {
+   "English": "Aerodactyl",
+   "French": "Ptera"
+ },
+ {
+   "English": "Snorlax",
+   "French": "Ronflex"
+ },
+ {
+   "English": "Articuno",
+   "French": "Artikodin"
+ },
+ {
+   "English": "Zapdos",
+   "French": "Electhor"
+ },
+ {
+   "English": "Moltres",
+   "French": "Sulfura"
+ },
+ {
+   "English": "Dratini",
+   "French": "Minidraco"
+ },
+ {
+   "English": "Dragonair",
+   "French": "Draco"
+ },
+ {
+   "English": "Dragonite",
+   "French": "Dracolosse"
+ },
+ {
+   "English": "Mewtwo",
+   "French": "Mewtwo"
+ },
+ {
+   "English": "Mew",
+   "French": "Mew"
+ },
+ {
+   "English": "Chikorita",
+   "French": "Germignon"
+ },
+ {
+   "English": "Bayleef",
+   "French": "Macronium"
+ },
+ {
+   "English": "Meganium",
+   "French": "Meganium"
+ },
+ {
+   "English": "Cyndaquil",
+   "French": "Hericendre"
+ },
+ {
+   "English": "Quilava",
+   "French": "Feurisson"
+ },
+ {
+   "English": "Typhlosion",
+   "French": "Typhlosion"
+ },
+ {
+   "English": "Totodile",
+   "French": "Kaiminus"
+ },
+ {
+   "English": "Croconaw",
+   "French": "Crocrodil"
+ },
+ {
+   "English": "Feraligatr",
+   "French": "Aligatueur"
+ },
+ {
+   "English": "Sentret",
+   "French": "Fouinette"
+ },
+ {
+   "English": "Furret",
+   "French": "Fouinar"
+ },
+ {
+   "English": "Hoothoot",
+   "French": "Hoothoot"
+ },
+ {
+   "English": "Noctowl",
+   "French": "Noarfang"
+ },
+ {
+   "English": "Ledyba",
+   "French": "Coxy"
+ },
+ {
+   "English": "Ledian",
+   "French": "Coxyclaque"
+ },
+ {
+   "English": "Spinarak",
+   "French": "Mimigal"
+ },
+ {
+   "English": "Ariados",
+   "French": "Migalos"
+ },
+ {
+   "English": "Crobat",
+   "French": "Nostenfer"
+ },
+ {
+   "English": "Chinchou",
+   "French": "Loupio"
+ },
+ {
+   "English": "Lanturn",
+   "French": "Lanturn"
+ },
+ {
+   "English": "Pichu",
+   "French": "Pichu"
+ },
+ {
+   "English": "Cleffa",
+   "French": "Melo"
+ },
+ {
+   "English": "Igglybuff",
+   "French": "Toudoudou"
+ },
+ {
+   "English": "Togepi",
+   "French": "Togepi"
+ },
+ {
+   "English": "Togetic",
+   "French": "Togetic"
+ },
+ {
+   "English": "Natu",
+   "French": "Natu"
+ },
+ {
+   "English": "Xatu",
+   "French": "Xatu"
+ },
+ {
+   "English": "Mareep",
+   "French": "Wattouat"
+ },
+ {
+   "English": "Flaaffy",
+   "French": "Lainergie"
+ },
+ {
+   "English": "Ampharos",
+   "French": "Pharamp"
+ },
+ {
+   "English": "Bellossom",
+   "French": "Joliflor"
+ },
+ {
+   "English": "Marill",
+   "French": "Marill"
+ },
+ {
+   "English": "Azumarill",
+   "French": "Azumarill"
+ },
+ {
+   "English": "Sudowoodo",
+   "French": "Simularbre"
+ },
+ {
+   "English": "Politoed",
+   "French": "Tarpaud"
+ },
+ {
+   "English": "Hoppip",
+   "French": "Granivol"
+ },
+ {
+   "English": "Skiploom",
+   "French": "Floravol"
+ },
+ {
+   "English": "Jumpluff",
+   "French": "Cotovol"
+ },
+ {
+   "English": "Aipom",
+   "French": "Capumain"
+ },
+ {
+   "English": "Sunkern",
+   "French": "Tournegrin"
+ },
+ {
+   "English": "Sunflora",
+   "French": "Heliatronc"
+ },
+ {
+   "English": "Yanma",
+   "French": "Yanma"
+ },
+ {
+   "English": "Wooper",
+   "French": "Axoloto"
+ },
+ {
+   "English": "Quagsire",
+   "French": "Maraiste"
+ },
+ {
+   "English": "Espeon",
+   "French": "Mentali"
+ },
+ {
+   "English": "Umbreon",
+   "French": "Noctali"
+ },
+ {
+   "English": "Murkrow",
+   "French": "Cornebre"
+ },
+ {
+   "English": "Slowking",
+   "French": "Roigada"
+ },
+ {
+   "English": "Misdreavus",
+   "French": "Feuforeve"
+ },
+ {
+   "English": "Unown",
+   "French": "Zarbi"
+ },
+ {
+   "English": "Wobbuffet",
+   "French": "Qulbutoke"
+ },
+ {
+   "English": "Girafarig",
+   "French": "Girafarig"
+ },
+ {
+   "English": "Pineco",
+   "French": "Pomdepik"
+ },
+ {
+   "English": "Forretress",
+   "French": "Foretress"
+ },
+ {
+   "English": "Dunsparce",
+   "French": "Insolourdo"
+ },
+ {
+   "English": "Gligar",
+   "French": "Scorplane"
+ },
+ {
+   "English": "Steelix",
+   "French": "Steelix"
+ },
+ {
+   "English": "Snubbull",
+   "French": "Snubbull"
+ },
+ {
+   "English": "Granbull",
+   "French": "Granbull"
+ },
+ {
+   "English": "Qwilfish",
+   "French": "Qwilfish"
+ },
+ {
+   "English": "Scizor",
+   "French": "Cizayox"
+ },
+ {
+   "English": "Shuckle",
+   "French": "Caratroc"
+ },
+ {
+   "English": "Heracross",
+   "French": "Scarhino"
+ },
+ {
+   "English": "Sneasel",
+   "French": "Farfuret"
+ },
+ {
+   "English": "Teddiursa",
+   "French": "Teddiursa"
+ },
+ {
+   "English": "Ursaring",
+   "French": "Ursaring"
+ },
+ {
+   "English": "Slugma",
+   "French": "Limagma"
+ },
+ {
+   "English": "Magcargo",
+   "French": "Volcaropod"
+ },
+ {
+   "English": "Swinub",
+   "French": "Marcacrin"
+ },
+ {
+   "English": "Piloswine",
+   "French": "Cochignon"
+ },
+ {
+   "English": "Corsola",
+   "French": "Corayon"
+ },
+ {
+   "English": "Remoraid",
+   "French": "Remoraid"
+ },
+ {
+   "English": "Octillery",
+   "French": "Octillery"
+ },
+ {
+   "English": "Delibird",
+   "French": "Cadoizo"
+ },
+ {
+   "English": "Mantine",
+   "French": "Demanta"
+ },
+ {
+   "English": "Skarmory",
+   "French": "Airmure"
+ },
+ {
+   "English": "Houndour",
+   "French": "Malosse"
+ },
+ {
+   "English": "Houndoom",
+   "French": "Demolosse"
+ },
+ {
+   "English": "Kingdra",
+   "French": "Hyporoi"
+ },
+ {
+   "English": "Phanpy",
+   "French": "Phanpy"
+ },
+ {
+   "English": "Donphan",
+   "French": "Donphan"
+ },
+ {
+   "English": "Porygon2",
+   "French": "Porygon2"
+ },
+ {
+   "English": "Stantler",
+   "French": "Cerfrousse"
+ },
+ {
+   "English": "Smeargle",
+   "French": "Queulorior"
+ },
+ {
+   "English": "Tyrogue",
+   "French": "Debugant"
+ },
+ {
+   "English": "Hitmontop",
+   "French": "Kapoera"
+ },
+ {
+   "English": "Smoochum",
+   "French": "Lippouti"
+ },
+ {
+   "English": "Elekid",
+   "French": "Elekid"
+ },
+ {
+   "English": "Magby",
+   "French": "Magby"
+ },
+ {
+   "English": "Miltank",
+   "French": "Ecremeuh"
+ },
+ {
+   "English": "Blissey",
+   "French": "Leuphorie"
+ },
+ {
+   "English": "Raikou",
+   "French": "Raikou"
+ },
+ {
+   "English": "Entei",
+   "French": "Entei"
+ },
+ {
+   "English": "Suicune",
+   "French": "Suicune"
+ },
+ {
+   "English": "Larvitar",
+   "French": "Embrylex"
+ },
+ {
+   "English": "Pupitar",
+   "French": "Ymphect"
+ },
+ {
+   "English": "Tyranitar",
+   "French": "Tyranocif"
+ },
+ {
+   "English": "Lugia",
+   "French": "Lugia"
+ },
+ {
+   "English": "Ho-Oh",
+   "French": "Ho-Oh"
+ },
+ {
+   "English": "Celebi",
+   "French": "Celebi"
+ },
+ {
+   "English": "Treecko",
+   "French": "Arcko"
+ },
+ {
+   "English": "Grovyle",
+   "French": "Massko"
+ },
+ {
+   "English": "Sceptile",
+   "French": "Jungko"
+ },
+ {
+   "English": "Torchic",
+   "French": "Poussifeu"
+ },
+ {
+   "English": "Combusken",
+   "French": "Galifeu"
+ },
+ {
+   "English": "Blaziken",
+   "French": "Brasegali"
+ },
+ {
+   "English": "Mudkip",
+   "French": "Gobou"
+ },
+ {
+   "English": "Marshtomp",
+   "French": "Flobio"
+ },
+ {
+   "English": "Swampert",
+   "French": "Laggron"
+ },
+ {
+   "English": "Poochyena",
+   "French": "Medhyena"
+ },
+ {
+   "English": "Mightyena",
+   "French": "Grahyena"
+ },
+ {
+   "English": "Zigzagoon",
+   "French": "Zigzaton"
+ },
+ {
+   "English": "Linoone",
+   "French": "Lineon"
+ },
+ {
+   "English": "Wurmple",
+   "French": "Chenipotte"
+ },
+ {
+   "English": "Silcoon",
+   "French": "Armulys"
+ },
+ {
+   "English": "Beautifly",
+   "French": "Charmillon"
+ },
+ {
+   "English": "Cascoon",
+   "French": "Blindalys"
+ },
+ {
+   "English": "Dustox",
+   "French": "Papinox"
+ },
+ {
+   "English": "Lotad",
+   "French": "Nenupiot"
+ },
+ {
+   "English": "Lombre",
+   "French": "Lombre"
+ },
+ {
+   "English": "Ludicolo",
+   "French": "Ludicolo"
+ },
+ {
+   "English": "Seedot",
+   "French": "Grainipiot"
+ },
+ {
+   "English": "Nuzleaf",
+   "French": "Pifeuil"
+ },
+ {
+   "English": "Shiftry",
+   "French": "Tengalice"
+ },
+ {
+   "English": "Taillow",
+   "French": "Nirondelle"
+ },
+ {
+   "English": "Swellow",
+   "French": "Heledelle"
+ },
+ {
+   "English": "Wingull",
+   "French": "Goelise"
+ },
+ {
+   "English": "Pelipper",
+   "French": "Bekipan"
+ },
+ {
+   "English": "Ralts",
+   "French": "Tarsal"
+ },
+ {
+   "English": "Kirlia",
+   "French": "Kirlia"
+ },
+ {
+   "English": "Gardevoir",
+   "French": "Gardevoir"
+ },
+ {
+   "English": "Surskit",
+   "French": "Arakdo"
+ },
+ {
+   "English": "Masquerain",
+   "French": "Maskadra"
+ },
+ {
+   "English": "Shroomish",
+   "French": "Balignon"
+ },
+ {
+   "English": "Breloom",
+   "French": "Chapignon"
+ },
+ {
+   "English": "Slakoth",
+   "French": "Parecool"
+ },
+ {
+   "English": "Vigoroth",
+   "French": "Vigoroth"
+ },
+ {
+   "English": "Slaking",
+   "French": "Monaflemit"
+ },
+ {
+   "English": "Nincada",
+   "French": "Ningale"
+ },
+ {
+   "English": "Ninjask",
+   "French": "Ninjask"
+ },
+ {
+   "English": "Shedinja",
+   "French": "Munja"
+ },
+ {
+   "English": "Whismur",
+   "French": "Chuchmur"
+ },
+ {
+   "English": "Loudred",
+   "French": "Ramboum"
+ },
+ {
+   "English": "Exploud",
+   "French": "Brouhabam"
+ },
+ {
+   "English": "Makuhita",
+   "French": "Makuhita"
+ },
+ {
+   "English": "Hariyama",
+   "French": "Hariyama"
+ },
+ {
+   "English": "Azurill",
+   "French": "Azurill"
+ },
+ {
+   "English": "Nosepass",
+   "French": "Tarinor"
+ },
+ {
+   "English": "Skitty",
+   "French": "Skitty"
+ },
+ {
+   "English": "Delcatty",
+   "French": "Delcatty"
+ },
+ {
+   "English": "Sableye",
+   "French": "Tenefix"
+ },
+ {
+   "English": "Mawile",
+   "French": "Mysdibule"
+ },
+ {
+   "English": "Aron",
+   "French": "Galekid"
+ },
+ {
+   "English": "Lairon",
+   "French": "Galegon"
+ },
+ {
+   "English": "Aggron",
+   "French": "Galeking"
+ },
+ {
+   "English": "Meditite",
+   "French": "Meditikka"
+ },
+ {
+   "English": "Medicham",
+   "French": "Charmina"
+ },
+ {
+   "English": "Electrike",
+   "French": "Dynavolt"
+ },
+ {
+   "English": "Manectric",
+   "French": "Elecsprint"
+ },
+ {
+   "English": "Plusle",
+   "French": "Posipi"
+ },
+ {
+   "English": "Minun",
+   "French": "Negapi"
+ },
+ {
+   "English": "Volbeat",
+   "French": "Muciole"
+ },
+ {
+   "English": "Illumise",
+   "French": "Lumivole"
+ },
+ {
+   "English": "Roselia",
+   "French": "Roselia"
+ },
+ {
+   "English": "Gulpin",
+   "French": "Gloupti"
+ },
+ {
+   "English": "Swalot",
+   "French": "Avaltout"
+ },
+ {
+   "English": "Carvanha",
+   "French": "Carvanha"
+ },
+ {
+   "English": "Sharpedo",
+   "French": "Sharpedo"
+ },
+ {
+   "English": "Wailmer",
+   "French": "Wailmer"
+ },
+ {
+   "English": "Wailord",
+   "French": "Wailord"
+ },
+ {
+   "English": "Numel",
+   "French": "Chamallot"
+ },
+ {
+   "English": "Camerupt",
+   "French": "Camerupt"
+ },
+ {
+   "English": "Torkoal",
+   "French": "Chartor"
+ },
+ {
+   "English": "Spoink",
+   "French": "Spoink"
+ },
+ {
+   "English": "Grumpig",
+   "French": "Groret"
+ },
+ {
+   "English": "Spinda",
+   "French": "Spinda"
+ },
+ {
+   "English": "Trapinch",
+   "French": "Kraknoix"
+ },
+ {
+   "English": "Vibrava",
+   "French": "Vibraninf"
+ },
+ {
+   "English": "Flygon",
+   "French": "Libegon"
+ },
+ {
+   "English": "Cacnea",
+   "French": "Cacnea"
+ },
+ {
+   "English": "Cacturne",
+   "French": "Cacturne"
+ },
+ {
+   "English": "Swablu",
+   "French": "Tylton"
+ },
+ {
+   "English": "Altaria",
+   "French": "Altaria"
+ },
+ {
+   "English": "Zangoose",
+   "French": "Mangriff"
+ },
+ {
+   "English": "Seviper",
+   "French": "Seviper"
+ },
+ {
+   "English": "Lunatone",
+   "French": "Seleroc"
+ },
+ {
+   "English": "Solrock",
+   "French": "Solaroc"
+ },
+ {
+   "English": "Barboach",
+   "French": "Barloche"
+ },
+ {
+   "English": "Whiscash",
+   "French": "Barbicha"
+ },
+ {
+   "English": "Corphish",
+   "French": "Ecrapince"
+ },
+ {
+   "English": "Crawdaunt",
+   "French": "Colhomard"
+ },
+ {
+   "English": "Baltoy",
+   "French": "Balbuto"
+ },
+ {
+   "English": "Claydol",
+   "French": "Kaorine"
+ },
+ {
+   "English": "Lileep",
+   "French": "Lilia"
+ },
+ {
+   "English": "Cradily",
+   "French": "Vacilys"
+ },
+ {
+   "English": "Anorith",
+   "French": "Anorith"
+ },
+ {
+   "English": "Armaldo",
+   "French": "Armaldo"
+ },
+ {
+   "English": "Feebas",
+   "French": "Barpau"
+ },
+ {
+   "English": "Milotic",
+   "French": "Milobellus"
+ },
+ {
+   "English": "Castform",
+   "French": "Morpheo"
+ },
+ {
+   "English": "Kecleon",
+   "French": "Kecleon"
+ },
+ {
+   "English": "Shuppet",
+   "French": "Polichombr"
+ },
+ {
+   "English": "Banette",
+   "French": "Branette"
+ },
+ {
+   "English": "Duskull",
+   "French": "Skelenox"
+ },
+ {
+   "English": "Dusclops",
+   "French": "Teraclope"
+ },
+ {
+   "English": "Tropius",
+   "French": "Tropius"
+ },
+ {
+   "English": "Chimecho",
+   "French": "Eoko"
+ },
+ {
+   "English": "Absol",
+   "French": "Absol"
+ },
+ {
+   "English": "Wynaut",
+   "French": "Okeoke"
+ },
+ {
+   "English": "Snorunt",
+   "French": "Stalgamin"
+ },
+ {
+   "English": "Glalie",
+   "French": "Oniglali"
+ },
+ {
+   "English": "Spheal",
+   "French": "Obalie"
+ },
+ {
+   "English": "Sealeo",
+   "French": "Phogleur"
+ },
+ {
+   "English": "Walrein",
+   "French": "Kaimorse"
+ },
+ {
+   "English": "Clamperl",
+   "French": "Coquiperl"
+ },
+ {
+   "English": "Huntail",
+   "French": "Serpang"
+ },
+ {
+   "English": "Gorebyss",
+   "French": "Rosabyss"
+ },
+ {
+   "English": "Relicanth",
+   "French": "Relicanth"
+ },
+ {
+   "English": "Luvdisc",
+   "French": "Lovdisc"
+ },
+ {
+   "English": "Bagon",
+   "French": "Draby"
+ },
+ {
+   "English": "Shelgon",
+   "French": "Drackhaus"
+ },
+ {
+   "English": "Salamence",
+   "French": "Drattak"
+ },
+ {
+   "English": "Beldum",
+   "French": "Terhal"
+ },
+ {
+   "English": "Metang",
+   "French": "Metang"
+ },
+ {
+   "English": "Metagross",
+   "French": "Metalosse"
+ },
+ {
+   "English": "Regirock",
+   "French": "Regirock"
+ },
+ {
+   "English": "Regice",
+   "French": "Regice"
+ },
+ {
+   "English": "Registeel",
+   "French": "Registeel"
+ },
+ {
+   "English": "Latias",
+   "French": "Latias"
+ },
+ {
+   "English": "Latios",
+   "French": "Latios"
+ },
+ {
+   "English": "Kyogre",
+   "French": "Kyogre"
+ },
+ {
+   "English": "Groudon",
+   "French": "Groudon"
+ },
+ {
+   "English": "Rayquaza",
+   "French": "Rayquaza"
+ },
+ {
+   "English": "Jirachi",
+   "French": "Jirachi"
+ },
+ {
+   "English": "Deoxys",
+   "French": "Deoxys"
+ },
+ {
+   "English": "Turtwig",
+   "French": "Tortipouss"
+ },
+ {
+   "English": "Grotle",
+   "French": "Boskara"
+ },
+ {
+   "English": "Torterra",
+   "French": "Torterra"
+ },
+ {
+   "English": "Chimchar",
+   "French": "Ouisticram"
+ },
+ {
+   "English": "Monferno",
+   "French": "Chimpenfeu"
+ },
+ {
+   "English": "Infernape",
+   "French": "Simiabraz"
+ },
+ {
+   "English": "Piplup",
+   "French": "Tiplouf"
+ },
+ {
+   "English": "Prinplup",
+   "French": "Prinplouf"
+ },
+ {
+   "English": "Empoleon",
+   "French": "Pingoleon"
+ },
+ {
+   "English": "Starly",
+   "French": "Etourmi"
+ },
+ {
+   "English": "Staravia",
+   "French": "Etourvol"
+ },
+ {
+   "English": "Staraptor",
+   "French": "Etouraptor"
+ },
+ {
+   "English": "Bidoof",
+   "French": "Keunotor"
+ },
+ {
+   "English": "Bibarel",
+   "French": "Castorno"
+ },
+ {
+   "English": "Kricketot",
+   "French": "Crikzik"
+ },
+ {
+   "English": "Kricketune",
+   "French": "Melokrik"
+ },
+ {
+   "English": "Shinx",
+   "French": "Lixy"
+ },
+ {
+   "English": "Luxio",
+   "French": "Luxio"
+ },
+ {
+   "English": "Luxray",
+   "French": "Luxray"
+ },
+ {
+   "English": "Budew",
+   "French": "Rozbouton"
+ },
+ {
+   "English": "Roserade",
+   "French": "Roserade"
+ },
+ {
+   "English": "Cranidos",
+   "French": "Kranidos"
+ },
+ {
+   "English": "Rampardos",
+   "French": "Charkos"
+ },
+ {
+   "English": "Shieldon",
+   "French": "Dinoclier"
+ },
+ {
+   "English": "Bastiodon",
+   "French": "Bastiodon"
+ },
+ {
+   "English": "Burmy",
+   "French": "Cheniti"
+ },
+ {
+   "English": "Wormadam",
+   "French": "Cheniselle"
+ },
+ {
+   "English": "Mothim",
+   "French": "Papilord"
+ },
+ {
+   "English": "Combee",
+   "French": "Apitrini"
+ },
+ {
+   "English": "Vespiquen",
+   "French": "Apireine"
+ },
+ {
+   "English": "Pachirisu",
+   "French": "Pachirisu"
+ },
+ {
+   "English": "Buizel",
+   "French": "Mustebouee"
+ },
+ {
+   "English": "Floatzel",
+   "French": "Musteflott"
+ },
+ {
+   "English": "Cherubi",
+   "French": "Ceribou"
+ },
+ {
+   "English": "Cherrim",
+   "French": "Ceriflor"
+ },
+ {
+   "English": "Shellos",
+   "French": "Sancoki"
+ },
+ {
+   "English": "Gastrodon",
+   "French": "Tritosor"
+ },
+ {
+   "English": "Ambipom",
+   "French": "Capidextre"
+ },
+ {
+   "English": "Drifloon",
+   "French": "Baudrive"
+ },
+ {
+   "English": "Drifblim",
+   "French": "Grodrive"
+ },
+ {
+   "English": "Buneary",
+   "French": "Laporeille"
+ },
+ {
+   "English": "Lopunny",
+   "French": "Lockpin"
+ },
+ {
+   "English": "Mismagius",
+   "French": "Magireve"
+ },
+ {
+   "English": "Honchkrow",
+   "French": "Corboss"
+ },
+ {
+   "English": "Glameow",
+   "French": "Chaglam"
+ },
+ {
+   "English": "Purugly",
+   "French": "Chaffreux"
+ },
+ {
+   "English": "Chingling",
+   "French": "Korillon"
+ },
+ {
+   "English": "Stunky",
+   "French": "Moufouette"
+ },
+ {
+   "English": "Skuntank",
+   "French": "Moufflair"
+ },
+ {
+   "English": "Bronzor",
+   "French": "Archeomire"
+ },
+ {
+   "English": "Bronzong",
+   "French": "Archeodong"
+ },
+ {
+   "English": "Bonsly",
+   "French": "Manzai"
+ },
+ {
+   "English": "Mime Jr.",
+   "French": "Mime Jr"
+ },
+ {
+   "English": "Happiny",
+   "French": "Ptiravi"
+ },
+ {
+   "English": "Chatot",
+   "French": "Pijako"
+ },
+ {
+   "English": "Spiritomb",
+   "French": "Spiritomb"
+ },
+ {
+   "English": "Gible",
+   "French": "Griknot"
+ },
+ {
+   "English": "Gabite",
+   "French": "Carmache"
+ },
+ {
+   "English": "Garchomp",
+   "French": "Carchacrok"
+ },
+ {
+   "English": "Munchlax",
+   "French": "Goinfrex"
+ },
+ {
+   "English": "Riolu",
+   "French": "Riolu"
+ },
+ {
+   "English": "Lucario",
+   "French": "Lucario"
+ },
+ {
+   "English": "Hippopotas",
+   "French": "Hippopotas"
+ },
+ {
+   "English": "Hippowdon",
+   "French": "Hippodocus"
+ },
+ {
+   "English": "Skorupi",
+   "French": "Rapion"
+ },
+ {
+   "English": "Drapion",
+   "French": "Drascore"
+ },
+ {
+   "English": "Croagunk",
+   "French": "Cradopaud"
+ },
+ {
+   "English": "Toxicroak",
+   "French": "Coatox"
+ },
+ {
+   "English": "Carnivine",
+   "French": "Vortente"
+ },
+ {
+   "English": "Finneon",
+   "French": "Ecayon"
+ },
+ {
+   "English": "Lumineon",
+   "French": "Lumineon"
+ },
+ {
+   "English": "Mantyke",
+   "French": "Babimanta"
+ },
+ {
+   "English": "Snover",
+   "French": "Blizzi"
+ },
+ {
+   "English": "Abomasnow",
+   "French": "Blizzaroi"
+ },
+ {
+   "English": "Weavile",
+   "French": "Dimoret"
+ },
+ {
+   "English": "Magnezone",
+   "French": "Magnezone"
+ },
+ {
+   "English": "Lickilicky",
+   "French": "Coudlangue"
+ },
+ {
+   "English": "Rhyperior",
+   "French": "Rhinastoc"
+ },
+ {
+   "English": "Tangrowth",
+   "French": "Bouldeneu"
+ },
+ {
+   "English": "Electivire",
+   "French": "Elekable"
+ },
+ {
+   "English": "Magmortar",
+   "French": "Maganon"
+ },
+ {
+   "English": "Togekiss",
+   "French": "Togekiss"
+ },
+ {
+   "English": "Yanmega",
+   "French": "Yanmega"
+ },
+ {
+   "English": "Leafeon",
+   "French": "Phyllali"
+ },
+ {
+   "English": "Glaceon",
+   "French": "Givrali"
+ },
+ {
+   "English": "Gliscor",
+   "French": "Scorvol"
+ },
+ {
+   "English": "Mamoswine",
+   "French": "Mammochon"
+ },
+ {
+   "English": "Porygon-Z",
+   "French": "Porygon-Z"
+ },
+ {
+   "English": "Gallade",
+   "French": "Gallame"
+ },
+ {
+   "English": "Probopass",
+   "French": "Tarinorme"
+ },
+ {
+   "English": "Dusknoir",
+   "French": "Noctunoir"
+ },
+ {
+   "English": "Froslass",
+   "French": "Momartik"
+ },
+ {
+   "English": "Rotom",
+   "French": "Motisma"
+ },
+ {
+   "English": "Uxie",
+   "French": "Crehelf"
+ },
+ {
+   "English": "Mesprit",
+   "French": "Crefollet"
+ },
+ {
+   "English": "Azelf",
+   "French": "Crefadet"
+ },
+ {
+   "English": "Dialga",
+   "French": "Dialga"
+ },
+ {
+   "English": "Palkia",
+   "French": "Palkia"
+ },
+ {
+   "English": "Heatran",
+   "French": "Heatran"
+ },
+ {
+   "English": "Regigigas",
+   "French": "Regigigas"
+ },
+ {
+   "English": "Giratina",
+   "French": "Giratina"
+ },
+ {
+   "English": "Cresselia",
+   "French": "Cresselia"
+ },
+ {
+   "English": "Phione",
+   "French": "Phione"
+ },
+ {
+   "English": "Manaphy",
+   "French": "Manaphy"
+ },
+ {
+   "English": "Darkrai",
+   "French": "Darkrai"
+ },
+ {
+   "English": "Shaymin",
+   "French": "Shaymin"
+ },
+ {
+   "English": "Arceus",
+   "French": "Arceus"
+ },
+ {
+   "English": "Victini",
+   "French": "Victini"
+ },
+ {
+   "English": "Snivy",
+   "French": "Vipelierre"
+ },
+ {
+   "English": "Servine",
+   "French": "Lianaja"
+ },
+ {
+   "English": "Serperior",
+   "French": "Majaspic"
+ },
+ {
+   "English": "Tepig",
+   "French": "Gruikui"
+ },
+ {
+   "English": "Pignite",
+   "French": "Grotichon"
+ },
+ {
+   "English": "Emboar",
+   "French": "Roitiflam"
+ },
+ {
+   "English": "Oshawott",
+   "French": "Moustillon"
+ },
+ {
+   "English": "Dewott",
+   "French": "Mateloutre"
+ },
+ {
+   "English": "Samurott",
+   "French": "Clamiral"
+ },
+ {
+   "English": "Patrat",
+   "French": "Ratentif"
+ },
+ {
+   "English": "Watchog",
+   "French": "Miradar"
+ },
+ {
+   "English": "Lillipup",
+   "French": "Ponchiot"
+ },
+ {
+   "English": "Herdier",
+   "French": "Ponchien"
+ },
+ {
+   "English": "Stoutland",
+   "French": "Mastouffe"
+ },
+ {
+   "English": "Purrloin",
+   "French": "Chacripan"
+ },
+ {
+   "English": "Liepard",
+   "French": "Leopardus"
+ },
+ {
+   "English": "Pansage",
+   "French": "Feuillajou"
+ },
+ {
+   "English": "Simisage",
+   "French": "Feuiloutan"
+ },
+ {
+   "English": "Pansear",
+   "French": "Flamajou"
+ },
+ {
+   "English": "Simisear",
+   "French": "Flamoutan"
+ },
+ {
+   "English": "Panpour",
+   "French": "Flotajou"
+ },
+ {
+   "English": "Simipour",
+   "French": "Flotoutan"
+ },
+ {
+   "English": "Munna",
+   "French": "Munna"
+ },
+ {
+   "English": "Musharna",
+   "French": "Mushana"
+ },
+ {
+   "English": "Pidove",
+   "French": "Poichigeon"
+ },
+ {
+   "English": "Tranquill",
+   "French": "Colombeau"
+ },
+ {
+   "English": "Unfezant",
+   "French": "Deflaisan"
+ },
+ {
+   "English": "Blitzle",
+   "French": "Zebribon"
+ },
+ {
+   "English": "Zebstrika",
+   "French": "Zeblitz"
+ },
+ {
+   "English": "Roggenrola",
+   "French": "Nodulithe"
+ },
+ {
+   "English": "Boldore",
+   "French": "Geolithe"
+ },
+ {
+   "English": "Gigalith",
+   "French": "Gigalithe"
+ },
+ {
+   "English": "Woobat",
+   "French": "Chovsourir"
+ },
+ {
+   "English": "Swoobat",
+   "French": "Rhinolove"
+ },
+ {
+   "English": "Drilbur",
+   "French": "Rototaupe"
+ },
+ {
+   "English": "Excadrill",
+   "French": "Minotaupe"
+ },
+ {
+   "English": "Audino",
+   "French": "Nanmeouie"
+ },
+ {
+   "English": "Timburr",
+   "French": "Charpenti"
+ },
+ {
+   "English": "Gurdurr",
+   "French": "Ouvrifier"
+ },
+ {
+   "English": "Conkeldurr",
+   "French": "Betochef"
+ },
+ {
+   "English": "Tympole",
+   "French": "Tritonde"
+ },
+ {
+   "English": "Palpitoad",
+   "French": "Batracne"
+ },
+ {
+   "English": "Seismitoad",
+   "French": "Crapustule"
+ },
+ {
+   "English": "Throh",
+   "French": "Judokrak"
+ },
+ {
+   "English": "Sawk",
+   "French": "Karaclee"
+ },
+ {
+   "English": "Sewaddle",
+   "French": "Larveyette"
+ },
+ {
+   "English": "Swadloon",
+   "French": "Couverdure"
+ },
+ {
+   "English": "Leavanny",
+   "French": "Manternel"
+ },
+ {
+   "English": "Venipede",
+   "French": "Venipatte"
+ },
+ {
+   "English": "Whirlipede",
+   "French": "Scobolide"
+ },
+ {
+   "English": "Scolipede",
+   "French": "Brutapode"
+ },
+ {
+   "English": "Cottonee",
+   "French": "Doudouvet"
+ },
+ {
+   "English": "Whimsicott",
+   "French": "Farfaduvet"
+ },
+ {
+   "English": "Petilil",
+   "French": "Chlorobule"
+ },
+ {
+   "English": "Lilligant",
+   "French": "Fragilady"
+ },
+ {
+   "English": "Basculin",
+   "French": "Bargantua"
+ },
+ {
+   "English": "Sandile",
+   "French": "Mascaiman"
+ },
+ {
+   "English": "Krokorok",
+   "French": "Escroco"
+ },
+ {
+   "English": "Krookodile",
+   "French": "Crocorible"
+ },
+ {
+   "English": "Darumaka",
+   "French": "Darumarond"
+ },
+ {
+   "English": "Darmanitan",
+   "French": "Darumacho"
+ },
+ {
+   "English": "Maractus",
+   "French": "Maracachi"
+ },
+ {
+   "English": "Dwebble",
+   "French": "Crabicoque"
+ },
+ {
+   "English": "Crustle",
+   "French": "Crabaraque"
+ },
+ {
+   "English": "Scraggy",
+   "French": "Baggiguane"
+ },
+ {
+   "English": "Scrafty",
+   "French": "Baggaid"
+ },
+ {
+   "English": "Sigilyph",
+   "French": "Cryptero"
+ },
+ {
+   "English": "Yamask",
+   "French": "Tutafeh"
+ },
+ {
+   "English": "Cofagrigus",
+   "French": "Tutankafer"
+ },
+ {
+   "English": "Tirtouga",
+   "French": "Carapagos"
+ },
+ {
+   "English": "Carracosta",
+   "French": "Megapagos"
+ },
+ {
+   "English": "Archen",
+   "French": "Arkeapti"
+ },
+ {
+   "English": "Archeops",
+   "French": "Aeropteryx"
+ },
+ {
+   "English": "Trubbish",
+   "French": "Miamiasme"
+ },
+ {
+   "English": "Garbodor",
+   "French": "Miasmax"
+ },
+ {
+   "English": "Zorua",
+   "French": "Zorua"
+ },
+ {
+   "English": "Zoroark",
+   "French": "Zoroark"
+ },
+ {
+   "English": "Minccino",
+   "French": "Chinchidou"
+ },
+ {
+   "English": "Cinccino",
+   "French": "Pashmilla"
+ },
+ {
+   "English": "Gothita",
+   "French": "Scrutella"
+ },
+ {
+   "English": "Gothorita",
+   "French": "Mesmerella"
+ },
+ {
+   "English": "Gothitelle",
+   "French": "Siderella"
+ },
+ {
+   "English": "Solosis",
+   "French": "Nucleos"
+ },
+ {
+   "English": "Duosion",
+   "French": "Meios"
+ },
+ {
+   "English": "Reuniclus",
+   "French": "Symbios"
+ },
+ {
+   "English": "Ducklett",
+   "French": "Couaneton"
+ },
+ {
+   "English": "Swanna",
+   "French": "Lakmecygne"
+ },
+ {
+   "English": "Vanillite",
+   "French": "Sorbebe"
+ },
+ {
+   "English": "Vanillish",
+   "French": "Sorboul"
+ },
+ {
+   "English": "Vanilluxe",
+   "French": "Sorbouboul"
+ },
+ {
+   "English": "Deerling",
+   "French": "Vivaldaim"
+ },
+ {
+   "English": "Sawsbuck",
+   "French": "Haydaim"
+ },
+ {
+   "English": "Emolga",
+   "French": "Emolga"
+ },
+ {
+   "English": "Karrablast",
+   "French": "Carabing"
+ },
+ {
+   "English": "Escavalier",
+   "French": "Lancargot"
+ },
+ {
+   "English": "Foongus",
+   "French": "Trompignon"
+ },
+ {
+   "English": "Amoonguss",
+   "French": "Gaulet"
+ },
+ {
+   "English": "Frillish",
+   "French": "Viskuse"
+ },
+ {
+   "English": "Jellicent",
+   "French": "Moyade"
+ },
+ {
+   "English": "Alomomola",
+   "French": "Mamanbo"
+ },
+ {
+   "English": "Joltik",
+   "French": "Statitik"
+ },
+ {
+   "English": "Galvantula",
+   "French": "Mygavolt"
+ },
+ {
+   "English": "Ferroseed",
+   "French": "Grindur"
+ },
+ {
+   "English": "Ferrothorn",
+   "French": "Noacier"
+ },
+ {
+   "English": "Klink",
+   "French": "Tic"
+ },
+ {
+   "English": "Klang",
+   "French": "Clic"
+ },
+ {
+   "English": "Klinklang",
+   "French": "Cliticlic"
+ },
+ {
+   "English": "Tynamo",
+   "French": "Anchwatt"
+ },
+ {
+   "English": "Eelektrik",
+   "French": "Lamperoie"
+ },
+ {
+   "English": "Eelektross",
+   "French": "Ohmassacre"
+ },
+ {
+   "English": "Elgyem",
+   "French": "Lewsor"
+ },
+ {
+   "English": "Beheeyem",
+   "French": "Neitram"
+ },
+ {
+   "English": "Litwick",
+   "French": "Funecire"
+ },
+ {
+   "English": "Lampent",
+   "French": "Melancolux"
+ },
+ {
+   "English": "Chandelure",
+   "French": "Lugulabre"
+ },
+ {
+   "English": "Axew",
+   "French": "Coupenotte"
+ },
+ {
+   "English": "Fraxure",
+   "French": "Incisache"
+ },
+ {
+   "English": "Haxorus",
+   "French": "Tranchodon"
+ },
+ {
+   "English": "Cubchoo",
+   "French": "Polarhume"
+ },
+ {
+   "English": "Beartic",
+   "French": "Polagriffe"
+ },
+ {
+   "English": "Cryogonal",
+   "French": "Hexagel"
+ },
+ {
+   "English": "Shelmet",
+   "French": "Escargaume"
+ },
+ {
+   "English": "Accelgor",
+   "French": "Limaspeed"
+ },
+ {
+   "English": "Stunfisk",
+   "French": "Limonde"
+ },
+ {
+   "English": "Mienfoo",
+   "French": "Kungfouine"
+ },
+ {
+   "English": "Mienshao",
+   "French": "Shaofouine"
+ },
+ {
+   "English": "Druddigon",
+   "French": "Drakkarmin"
+ },
+ {
+   "English": "Golett",
+   "French": "Gringolem"
+ },
+ {
+   "English": "Golurk",
+   "French": "Golemastoc"
+ },
+ {
+   "English": "Pawniard",
+   "French": "Scalpion"
+ },
+ {
+   "English": "Bisharp",
+   "French": "Scalproie"
+ },
+ {
+   "English": "Bouffalant",
+   "French": "Frison"
+ },
+ {
+   "English": "Rufflet",
+   "French": "Furaiglon"
+ },
+ {
+   "English": "Braviary",
+   "French": "Gueriaigle"
+ },
+ {
+   "English": "Vullaby",
+   "French": "Vostourno"
+ },
+ {
+   "English": "Mandibuzz",
+   "French": "Vaututrice"
+ },
+ {
+   "English": "Heatmor",
+   "French": "Aflamanoir"
+ },
+ {
+   "English": "Durant",
+   "French": "Fermite"
+ },
+ {
+   "English": "Deino",
+   "French": "Solochi"
+ },
+ {
+   "English": "Zweilous",
+   "French": "Diamat"
+ },
+ {
+   "English": "Hydreigon",
+   "French": "Trioxhydre"
+ },
+ {
+   "English": "Larvesta",
+   "French": "Pyronille"
+ },
+ {
+   "English": "Volcarona",
+   "French": "Pyrax"
+ },
+ {
+   "English": "Cobalion",
+   "French": "Cobaltium"
+ },
+ {
+   "English": "Terrakion",
+   "French": "Terrakium"
+ },
+ {
+   "English": "Virizion",
+   "French": "Viridium"
+ },
+ {
+   "English": "Tornadus",
+   "French": "Boreas"
+ },
+ {
+   "English": "Thundurus",
+   "French": "Fulguris"
+ },
+ {
+   "English": "Reshiram",
+   "French": "Reshiram"
+ },
+ {
+   "English": "Zekrom",
+   "French": "Zekrom"
+ },
+ {
+   "English": "Landorus",
+   "French": "Demeteros"
+ },
+ {
+   "English": "Kyurem",
+   "French": "Kyurem"
+ },
+ {
+   "English": "Keldeo",
+   "French": "Keldeo"
+ },
+ {
+   "English": "Meloetta",
+   "French": "Meloetta"
+ },
+ {
+   "English": "Genesect",
+   "French": "Genesect"
+ },
+ {
+   "English": "Chespin",
+   "French": "Marisson"
+ },
+ {
+   "English": "Quilladin",
+   "French": "Boguerisse"
+ },
+ {
+   "English": "Chesnaught",
+   "French": "Blindepique"
+ },
+ {
+   "English": "Fennekin",
+   "French": "Feunnec"
+ },
+ {
+   "English": "Braixen",
+   "French": "Roussil"
+ },
+ {
+   "English": "Delphox",
+   "French": "Goupelin"
+ },
+ {
+   "English": "Froakie",
+   "French": "Grenousse"
+ },
+ {
+   "English": "Frogadier",
+   "French": "Croaporal"
+ },
+ {
+   "English": "Greninja",
+   "French": "Amphinobi"
+ },
+ {
+   "English": "Bunnelby",
+   "French": "Sapereau"
+ },
+ {
+   "English": "Diggersby",
+   "French": "Excavarenne"
+ },
+ {
+   "English": "Fletchling",
+   "French": "Passerouge"
+ },
+ {
+   "English": "Fletchinder",
+   "French": "Braisillon"
+ },
+ {
+   "English": "Talonflame",
+   "French": "Flambusard"
+ },
+ {
+   "English": "Scatterbug",
+   "French": "Lepidonille"
+ },
+ {
+   "English": "Spewpa",
+   "French": "Peregrain"
+ },
+ {
+   "English": "Vivillon",
+   "French": "Prismillon"
+ },
+ {
+   "English": "Litleo",
+   "French": "Helionceau"
+ },
+ {
+   "English": "Pyroar",
+   "French": "Nemelios"
+ },
+ {
+   "English": "Flabebe",
+   "French": "Flabebe"
+ },
+ {
+   "English": "Floette",
+   "French": "Floette"
+ },
+ {
+   "English": "Florges",
+   "French": "Florges"
+ },
+ {
+   "English": "Skiddo",
+   "French": "Cabriolaine"
+ },
+ {
+   "English": "Gogoat",
+   "French": "Chevroum"
+ },
+ {
+   "English": "Pancham",
+   "French": "Pandespiegle"
+ },
+ {
+   "English": "Pangoro",
+   "French": "Pandarbare"
+ },
+ {
+   "English": "Furfrou",
+   "French": "Couafarel"
+ },
+ {
+   "English": "Espurr",
+   "French": "Psystigri"
+ },
+ {
+   "English": "Meowstic",
+   "French": "Mistigrix"
+ },
+ {
+   "English": "Honedge",
+   "French": "Monorpale"
+ },
+ {
+   "English": "Doublade",
+   "French": "Dimocles"
+ },
+ {
+   "English": "Aegislash",
+   "French": "Exagide"
+ },
+ {
+   "English": "Spritzee",
+   "French": "Fluvetin"
+ },
+ {
+   "English": "Aromatisse",
+   "French": "Cocotine"
+ },
+ {
+   "English": "Swirlix",
+   "French": "Sucroquin"
+ },
+ {
+   "English": "Slurpuff",
+   "French": "Cupcanaille"
+ },
+ {
+   "English": "Inkay",
+   "French": "Sepiatop"
+ },
+ {
+   "English": "Malamar",
+   "French": "Sepiatroce"
+ },
+ {
+   "English": "Binacle",
+   "French": "Opermine"
+ },
+ {
+   "English": "Barbaracle",
+   "French": "Golgopathe"
+ },
+ {
+   "English": "Skrelp",
+   "French": "Venalgue"
+ },
+ {
+   "English": "Dragalge",
+   "French": "Kravarech"
+ },
+ {
+   "English": "Clauncher",
+   "French": "Flingouste"
+ },
+ {
+   "English": "Clawitzer",
+   "French": "Gamblast"
+ },
+ {
+   "English": "Helioptile",
+   "French": "Galvaran"
+ },
+ {
+   "English": "Heliolisk",
+   "French": "Iguolta"
+ },
+ {
+   "English": "Tyrunt",
+   "French": "Ptyranidur"
+ },
+ {
+   "English": "Tyrantrum",
+   "French": "Rexillius"
+ },
+ {
+   "English": "Amaura",
+   "French": "Amagara"
+ },
+ {
+   "English": "Aurorus",
+   "French": "Dragmara"
+ },
+ {
+   "English": "Sylveon",
+   "French": "Nymphali"
+ },
+ {
+   "English": "Hawlucha",
+   "French": "Brutalibre"
+ },
+ {
+   "English": "Dedenne",
+   "French": "Dedenne"
+ },
+ {
+   "English": "Carbink",
+   "French": "Strassie"
+ },
+ {
+   "English": "Goomy",
+   "French": "Mucuscule"
+ },
+ {
+   "English": "Sliggoo",
+   "French": "Colimucus"
+ },
+ {
+   "English": "Goodra",
+   "French": "Muplodocus"
+ },
+ {
+   "English": "Klefki",
+   "French": "Trousselin"
+ },
+ {
+   "English": "Phantump",
+   "French": "Brocelome"
+ },
+ {
+   "English": "Trevenant",
+   "French": "Desseliande"
+ },
+ {
+   "English": "Pumpkaboo",
+   "French": "Pitrouille"
+ },
+ {
+   "English": "Gourgeist",
+   "French": "Banshitrouye"
+ },
+ {
+   "English": "Bergmite",
+   "French": "Grelacon"
+ },
+ {
+   "English": "Avalugg",
+   "French": "Seracrawl"
+ },
+ {
+   "English": "Noibat",
+   "French": "Sonistrelle"
+ },
+ {
+   "English": "Noivern",
+   "French": "Bruyverne"
+ },
+ {
+   "English": "Xerneas",
+   "French": "Xerneas"
+ },
+ {
+   "English": "Yveltal",
+   "French": "Yveltal"
+ },
+ {
+   "English": "Zygarde",
+   "French": "Zygarde"
+ },
+ {
+   "English": "Diancie",
+   "French": "Diancie"
+ },
+ {
+   "English": "Hoopa",
+   "French": "Hoopa"
+ },
+ {
+   "English": "Volcanion",
+   "French": "Volcanion"
+ },
+ {
+   "English": "Rowlet",
+   "French": "Brindibou"
+ },
+ {
+   "English": "Dartrix",
+   "French": "Effleche"
+ },
+ {
+   "English": "Decidueye",
+   "French": "Archeduc"
+ },
+ {
+   "English": "Litten",
+   "French": "Flamiaou"
+ },
+ {
+   "English": "Torracat",
+   "French": "Matoufeu"
+ },
+ {
+   "English": "Incineroar",
+   "French": "Felinferno"
+ },
+ {
+   "English": "Popplio",
+   "French": "Otaquin"
+ },
+ {
+   "English": "Brionne",
+   "French": "Otarlette"
+ },
+ {
+   "English": "Primarina",
+   "French": "Oratoria"
+ },
+ {
+   "English": "Pikipek",
+   "French": "Picassaut"
+ },
+ {
+   "English": "Trumbeak",
+   "French": "Piclairon"
+ },
+ {
+   "English": "Toucannon",
+   "French": "Bazoucan"
+ },
+ {
+   "English": "Yungoos",
+   "French": "Manglouton"
+ },
+ {
+   "English": "Gumshoos",
+   "French": "Argouste"
+ },
+ {
+   "English": "Grubbin",
+   "French": "Larvibule"
+ },
+ {
+   "English": "Charjabug",
+   "French": "Chrysapile"
+ },
+ {
+   "English": "Vikavolt",
+   "French": "Lucanon"
+ },
+ {
+   "English": "Crabrawler",
+   "French": "Crabagarre"
+ },
+ {
+   "English": "Crabominable",
+   "French": "Crabominable"
+ },
+ {
+   "English": "Oricorio",
+   "French": "Plumeline"
+ },
+ {
+   "English": "Cutiefly",
+   "French": "Bombydou"
+ },
+ {
+   "English": "Ribombee",
+   "French": "Rubombelle"
+ },
+ {
+   "English": "Rockruff",
+   "French": "Rocabot"
+ },
+ {
+   "English": "Lycanroc",
+   "French": "Lougaroc"
+ },
+ {
+   "English": "Wishiwashi",
+   "French": "Froussardine"
+ },
+ {
+   "English": "Mareanie",
+   "French": "Vorasterie"
+ },
+ {
+   "English": "Toxapex",
+   "French": "Predasterie"
+ },
+ {
+   "English": "Mudbray",
+   "French": "Tiboudet"
+ },
+ {
+   "English": "Mudsdale",
+   "French": "Bourrinos"
+ },
+ {
+   "English": "Dewpider",
+   "French": "Araqua"
+ },
+ {
+   "English": "Araquanid",
+   "French": "Tarenbulle"
+ },
+ {
+   "English": "Fomantis",
+   "French": "Mimantis"
+ },
+ {
+   "English": "Lurantis",
+   "French": "Floramantis"
+ },
+ {
+   "English": "Morelull",
+   "French": "Spododo"
+ },
+ {
+   "English": "Shiinotic",
+   "French": "Lampignon"
+ },
+ {
+   "English": "Salandit",
+   "French": "Tritox"
+ },
+ {
+   "English": "Salazzle",
+   "French": "Malamandre"
+ },
+ {
+   "English": "Stufful",
+   "French": "Nounourson"
+ },
+ {
+   "English": "Bewear",
+   "French": "Chelours"
+ },
+ {
+   "English": "Bounsweet",
+   "French": "Croquine"
+ },
+ {
+   "English": "Steenee",
+   "French": "Candine"
+ },
+ {
+   "English": "Tsareena",
+   "French": "Sucreine"
+ },
+ {
+   "English": "Comfey",
+   "French": "Guerilande"
+ },
+ {
+   "English": "Oranguru",
+   "French": "Gouroutan"
+ },
+ {
+   "English": "Passimian",
+   "French": "Quartermac"
+ },
+ {
+   "English": "Wimpod",
+   "French": "Sovkipou"
+ },
+ {
+   "English": "Golisopod",
+   "French": "Sarmurai"
+ },
+ {
+   "English": "Sandygast",
+   "French": "Bacabouh"
+ },
+ {
+   "English": "Palossand",
+   "French": "Trepassable"
+ },
+ {
+   "English": "Pyukumuku",
+   "French": "Concombaffe"
+ },
+ {
+   "English": "Type: Null",
+   "French": "Type:0"
+ },
+ {
+   "English": "Silvally",
+   "French": "Silvallie"
+ },
+ {
+   "English": "Minior",
+   "French": "Meteno"
+ },
+ {
+   "English": "Komala",
+   "French": "Dodoala"
+ },
+ {
+   "English": "Turtonator",
+   "French": "Boumata"
+ },
+ {
+   "English": "Togedemaru",
+   "French": "Togedemaru"
+ },
+ {
+   "English": "Mimikyu",
+   "French": "Mimiqui"
+ },
+ {
+   "English": "Bruxish",
+   "French": "Denticrisse"
+ },
+ {
+   "English": "Drampa",
+   "French": "Draieul"
+ },
+ {
+   "English": "Dhelmise",
+   "French": "Sinistrail"
+ },
+ {
+   "English": "Jangmo-o",
+   "French": "Bebecaille"
+ },
+ {
+   "English": "Hakamo-o",
+   "French": "Ecaid"
+ },
+ {
+   "English": "Kommo-o",
+   "French": "Ekaiser"
+ },
+ {
+   "English": "Tapu Koko",
+   "French": "Tokorico"
+ },
+ {
+   "English": "Tapu Lele",
+   "French": "Tokopiyon"
+ },
+ {
+   "English": "Tapu Bulu",
+   "French": "Tokotoro"
+ },
+ {
+   "English": "Tapu Fini",
+   "French": "Tokopisco"
+ },
+ {
+   "English": "Cosmog",
+   "French": "Cosmog"
+ },
+ {
+   "English": "Cosmoem",
+   "French": "Cosmovum"
+ },
+ {
+   "English": "Solgaleo",
+   "French": "Solgaleo"
+ },
+ {
+   "English": "Lunala",
+   "French": "Lunala"
+ },
+ {
+   "English": "Nihilego",
+   "French": "Zeroid"
+ },
+ {
+   "English": "Buzzwole",
+   "French": "Mouscoto"
+ },
+ {
+   "English": "Pheromosa",
+   "French": "Cancrelove"
+ },
+ {
+   "English": "Xurkitree",
+   "French": "Cablifere"
+ },
+ {
+   "English": "Celesteela",
+   "French": "Bamboiselle"
+ },
+ {
+   "English": "Kartana",
+   "French": "Katagami"
+ },
+ {
+   "English": "Guzzlord",
+   "French": "Engloutyran"
+ },
+ {
+   "English": "Necrozma",
+   "French": "Necrozma"
+ },
+ {
+   "English": "Magearna",
+   "French": "Magearna"
+ },
+ {
+   "English": "Marshadow",
+   "French": "Marshadow"
+ },
+ {
+   "English": "Poipole",
+   "French": "Vemini"
+ },
+ {
+   "English": "Naganadel",
+   "French": "Mandrillon"
+ },
+ {
+   "English": "Stakataka",
+   "French": "Ama-Ama"
+ },
+ {
+   "English": "Blacephalon",
+   "French": "Pierroteknik"
+ },
+ {
+   "English": "Zeraora",
+   "French": "Zeraora"
+ },
+ {
+   "English": "Meltan",
+   "French": "Meltan"
+ },
+ {
+   "English": "Melmetal",
+   "French": "Melmetal"
+ },
+ {
+   "English": "Marowak-Alola",
+   "French": "Ossatueur"
+ },
+ {
+   "English": "Raichu-Alola",
+   "French": "Raichu Alolan"
+ }, 
+ {
+   "English": "Exeggutor-Alola",
+   "French": "Noadkoko"
+ }, 
+ {
+   "English": "Deoxys-Attack",
+   "French": "Attaque"
+ }
+]
