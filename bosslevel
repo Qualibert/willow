@@ -1,0 +1,59 @@
+let api = //Parsing Pokebattler (https://fight.pokebattler.com/raids) in cache
+let pokemonA = //display name
+let pokemonb = pokemonA;
+let shiny = "false";
+
+
+switch (pokemonA) {
+  case "Exeggutor-Alola":
+    pokemonb = "Exeggutor_Alola_form";
+    break;
+  case "Marowak-Alola":
+    pokemonb = "Marowak_Alola_form";
+    break;
+  case "Raichu-Alola":
+    pokemonb = "Raichu_Alola_form";
+    break;
+  case "Deoxys-Attack":
+pokemonb = "Deoxys_Attack_form";
+    break;
+  case "Deoxys-Defense":
+pokemonb = "Deoxys_Defense_form";
+    break;
+case "Giratina-Origin":
+pokemonb = "GIRATINA_ORIGIN_FORM";
+    break;
+case "Giratina-Altered":
+pokemonb = "GIRATINA";
+    break;
+  case pokemonA:
+pokemonb = pokemonA;
+    break;
+}
+
+
+pokemonb = pokemonb.toUpperCase();
+let tier = "1";
+tier = "None";
+
+var i;
+for (i = 0; i < api[0].length; i++) {
+var x;
+for (x = 0; x < api[0][i].raids.length; x++) {
+if(api[0][i].raids[x].pokemon == pokemonb){
+tier = api[0][i].tier;
+shiny = api[0][i].raids[x].shiny;
+pokemonb = "Stop";
+break;
+}
+}
+} 
+
+let tierB = tier.slice(11, 12);
+if(tier == "None" || tier == "RAID_LEVEL_UNSET"){tierB = 1;}
+
+
+this.storeValue(tierB, 1, "tierB", cache);
+this.storeValue(tier, 1, "tier", cache);
+this.storeValue(tierB, 1, "bosslevel_API_B", cache);
+this.storeValue(shiny, 1, "shiny", cache);
