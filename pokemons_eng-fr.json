@@ -3233,18 +3233,30 @@
  },
  {
    "English": "Marowak-Alola",
-   "French": "Ossatueur"
+   "French": "Ossatueur-Alolan"
  },
  {
    "English": "Raichu-Alola",
-   "French": "Raichu Alolan"
+   "French": "Raichu-Alolan"
  }, 
  {
    "English": "Exeggutor-Alola",
-   "French": "Noadkoko"
+   "French": "Noadkoko-Alolan"
  }, 
  {
    "English": "Deoxys-Attack",
-   "French": "Attaque"
+   "French": "Deoxys-Attaque"
+ },
+  {
+   "English": "Deoxys-Defense",
+   "French": "Deoxys-Defense"
+ },
+  {
+   "English": "Giratina-Altered",
+   "French": "Giratina-Alteree"
+ },
+   {
+   "English": "Giratina-Origin,
+   "French": "Giratina-Origine"
  }
 ]
