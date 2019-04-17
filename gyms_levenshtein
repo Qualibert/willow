@@ -1,0 +1,61 @@
+const levenshtein = require('js-levenshtein');
+let gym = tempVars("gym").toLowerCase();
+let gymb = gym;
+let list = tempVars("listgym");
+let dis = 1000;
+let gymID = 0;
+let gymIDlist = tempVars("gymsID");
+gymIDlist = JSON.parse(gymIDlist);
+console.log(gym);
+for (var i = 0; i < list.length; i++) {
+let test = list[i].toLowerCase();
+let disb = levenshtein(gym, test);
+console.log(list[i] + " - "+ disb + " / "+ dis);
+if(test.includes(gym) == true){
+gymb = list[i];
+dis = 1;
+}
+else if(disb < dis) {
+dis = disb;
+gymb = list[i];
+}
+} 
+
+accentsTidy = function(s){
+    var r=s.toLowerCase();
+    r = r.replace(new RegExp(/\W/g),"");
+   r = r.replace(new RegExp(/\s/g),"");
+    r = r.replace(new RegExp(/[àáâãäå]/g),"a");
+    r = r.replace(new RegExp(/æ/g),"ae");
+    r = r.replace(new RegExp(/ç/g),"c");
+    r = r.replace(new RegExp(/[èéêë]/g),"e");
+    r = r.replace(new RegExp(/[ìíîï]/g),"i");
+    r = r.replace(new RegExp(/ñ/g),"n");                
+    r = r.replace(new RegExp(/[òóôõö]/g),"o");
+    r = r.replace(new RegExp(/œ/g),"oe");
+    r = r.replace(new RegExp(/[ùúûü]/g),"u");
+    r = r.replace(new RegExp(/[ýÿ]/g),"y");
+    r = r.replace(new RegExp(/\W/g),"");
+    return r;
+};
+
+let gymc = accentsTidy(gymb);
+console.log(gymc);
+
+var i;
+for (i = 0; i < gymIDlist.length; i++) {
+let testgym = JSON.stringify(gymIDlist[i].Gym);
+testgym = accentsTidy(testgym);
+console.log(testgym);
+if(testgym == gymc){gymID = gymIDlist[i].ID;}
+} 
+
+if(gym.length <= 3 || gym.startsWith("0:") == true && gym.length == 7)
+{
+gymID = "None";
+gymb = "Unreadable";
+}
+
+this.storeValue(gymID, 1, "gymID", cache);
+this.storeValue(gymb, 1, "gymb", cache);
+this.storeValue(dis, 1, "disb", cache);
