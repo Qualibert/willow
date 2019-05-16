@@ -1,0 +1,58 @@
+var https = require("https");
+var querystring = require('querystring');
+
+let dbz = this;
+
+var postData = querystring.stringify({
+    lat1: 46.42689908902463,
+    lng1: -72.67910546744693,
+    lat2: 46.28380724065073,
+    lng2: -72.3508945325114,
+    zoom: 11.7,
+    mapFilterValues: {
+        nestVerificationLevels: [1],
+        nestTypes: [-1],
+        migration: 1557964800
+    },
+    center_lat: 46.3554,
+    center_lng: -72.515
+});
+
+var options = {
+    hostname: 'thesilphroad.com',
+    port: 443,
+    method: 'POST',
+    path: '/atlas/getLocalNests.json',
+    headers: {
+        'Content-Type': 'application/x-www-form-urlencoded',
+        'charset': 'UTF-8',
+        'Content-Length': postData.length
+    }
+};
+
+// request object
+var req = https.request(options, function (res) {
+    var result = '';
+    res.on('data', function (chunk) {
+        result += chunk;
+    });
+    res.on('end', function () {
+        console.log(result);
+let output = JSON.parse(result).localMarkers;
+const values = Object.values(output);
+dbz.storeValue(values, 1, "result", cache);
+dbz.callNextAction(cache);
+    });
+    res.on('error', function (err) {
+        console.log(err);
+    })
+});
+
+// req error
+req.on('error', function (err) {
+    console.log(err);
+});
+
+//send request witht the postData form
+req.write(postData);
+req.end();
